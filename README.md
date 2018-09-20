@@ -2,62 +2,53 @@
 
 ## WHAT WE'RE DOING
 
-You're getting your sea legs with
-
-- `System.out.print`
-- `System.out.println`
-- `System.out.printf`
-- Java Math method calls
-- other helper method calls
+- getting set up with **Piazza** so you can ask and answer questions about drills, assignments, etc
+- learning how to get automatic notifications of assignment issues
+- drilling and skilling
 
 ---
 
-## OUTPUT METHODS
+## PIAZZA
 
-### REVIEW
+As mentioned in lecture yesterday, I remembered that the other Jordan used a different forum site for his classes some years back. It's much better suited for our purposes than Google Classroom.
 
-We talked about `print`, `println`, and `printf` in lecture on Wednesday.
+I'd like **all** questions about assignments and skill drills to go to Piazza. You can make your postings anonymous if you wish.
 
-Your instructor will:
+Please don't paste any code from assignments or drills into your questions - error messages and output from the console are not only **fine**, but are actually **encouraged**.
 
-- briefly review their use,
-- introduce two (`-` and `+`) _format specifier flags_; you are expected to find others on your own
-- introduce this course's use of the `main` and `run` methods, which differs from what is shown in the text.
+You should have received an email to your <span>mtroyal.ca</span> account from the Piazza system this morning. Please do the following:
 
-### PRACTICE
-
-Do the following drills on REPL.IT to practice using output methods:
-
-- lab-01 : print practice : 01
-- lab-01 : printf practice : 01
-- lab-01 : printf practice : 02
+- follow the instructions in the email and set up a Piazza account
+- set up your notifications to your liking: http://support.piazza.com/customer/portal/articles/1646660-email-notification-settings?t=494939
+- take a look at how to post to Piazza: http://support.piazza.com/customer/portal/articles/1564005-post-a-question
+- post (either anonymously or not) a piece of trivia (about anything - can be about you, a band you like, a movie you love...whatever) to the **everything_else** folder just so you get a feel for how to use the system
 
 ---
 
-## MATH METHODS
+## ASSIGNMENT ISSUE NOTIFICATIONS
 
-### REVIEW
+I **truly** wished assignments were pristine products, but imperfections invariably appear.
 
-We introduced a number of Math methods in lecture on Wednesday.
+As mentioned Tuesday, issues with assignments will appear in the `Issues` tab of the instruction page on Github...but then that puts the onus on _you_ to check in periodically to see if there are any new issues. Wouldn't it be nice if you could be notified automatically when new issues appeared?
 
-Your instructor will do a brief review of their use and demonstrate where to find the API for Java's Math package - it's a collection of mathy methods that comes built-in with Java.
+I think you see where this is going.
 
-#### Practice
+To get automatic notifications, you need to do the following:
 
-Do the following drills on REPL.IT to practice using Math methods:
+1. Sign up for a Github account (it's free and you're going to need one anyway for some of our future courses)
+1. After you have a Github account, you can be notified of **new** issues for **any** assignment by doing the following:
+   1. logging in to Github
+   1. going to the assignment page on Github
+   1. clicking on the `Watch` button and then choosing `Watching`
 
-- lab-01 : calling methods : 01
+That's it.
 
 ---
 
-## HELPER METHODS
+## YOUR SKILL DRILLS
 
-### REVIEW
+Do the following drills on REPL.IT:
 
-Your instructor will do a brief introduction on the concept of a helper method.
-
-#### Practice
-
-Do the following drills on REPL.IT to practice using helper methods:
-
-- lab-01 : calling methods : 02
+- lab-02 : old yeller
+- lab-02 : grade calculator
+- lab-02 : sentence shifter
