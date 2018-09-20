@@ -4,6 +4,7 @@
 
 - getting set up with **Piazza** so you can ask and answer questions about drills, assignments, etc
 - learning how to get automatic notifications of assignment issues
+- practicing tracing
 - drilling and skilling
 
 ---
@@ -55,6 +56,14 @@ To get automatic notifications, you need to do the following:
    1. clicking on the `Watch` button and then choosing `Watching`
 
 That's it.
+
+---
+
+## TRACING
+
+Complete the trace worksheet your instructor gives you.
+
+A copy can be found in the lab.02 repo.
 
 ---
 
