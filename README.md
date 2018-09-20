@@ -8,6 +8,19 @@
 
 ---
 
+A PUBLIC SERVICE ANNOUNCEMENT
+
+Are you spending more than 15 minutes "stuck" on one thing with no forward movement? Are you spending hours trying to Google an answer?
+
+STOP.
+
+If it's during the day, **talk to an IA or your instructor**.
+If it's after hours, **post to Piazza**.
+
+Life's too short folks.
+
+---
+
 ## PIAZZA
 
 As mentioned in lecture yesterday, I remembered that the other Jordan used a different forum site for his classes some years back. It's much better suited for our purposes than Google Classroom.
